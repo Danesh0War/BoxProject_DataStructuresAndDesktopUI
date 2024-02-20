@@ -1,0 +1,110 @@
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0209\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309 - fin\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309 - 2\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309 - E\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0409\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0409Working Update(2)\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0509Final\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.pdb
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.dll
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\bin\Debug\BoxesLogic.pdb
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.dll
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\bin\Debug\Newtonsoft.Json.xml
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.AssemblyReference.cache
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CoreCompileInputs.cache
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.csproj.CopyComplete
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.dll
+D:\SELA\code\Le_AGASHA\0509Final\BoxesLogic\BoxesLogic\obj\Debug\BoxesLogic.pdb

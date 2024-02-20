@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceforBoxes", "InterfaceforBoxes\InterfaceforBoxes.csproj", "{BBAD518B-8137-4848-A45C-D4926126E669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxesLogic", "..\BoxesLogic\BoxesLogic\BoxesLogic.csproj", "{0B0EBE3C-D1B8-4DEF-8F49-C8B5547BE77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAD518B-8137-4848-A45C-D4926126E669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAD518B-8137-4848-A45C-D4926126E669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAD518B-8137-4848-A45C-D4926126E669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAD518B-8137-4848-A45C-D4926126E669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0EBE3C-D1B8-4DEF-8F49-C8B5547BE77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0EBE3C-D1B8-4DEF-8F49-C8B5547BE77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0EBE3C-D1B8-4DEF-8F49-C8B5547BE77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0EBE3C-D1B8-4DEF-8F49-C8B5547BE77C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8430C56-AA49-4A39-A762-FADE13BDE313}
+	EndGlobalSection
+EndGlobal

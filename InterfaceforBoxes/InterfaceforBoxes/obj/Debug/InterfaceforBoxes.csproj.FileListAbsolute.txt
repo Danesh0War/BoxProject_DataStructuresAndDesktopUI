@@ -1,0 +1,228 @@
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe.config
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Properties.Resources.resources
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Resources.Resources.resources
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.MainForm.resources
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.InventoryForm.resources
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.SettingsForm.resources
+C:\Users\User\Desktop\DS\0209\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.AddBoxForm.resources
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe.config
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.AddBoxForm.resources
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.InventoryForm.resources
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.MainForm.resources
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Properties.Resources.resources
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Resources.Resources.resources
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.SettingsForm.resources
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0309\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.FindBoxForm.resources
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe.config
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.AddBoxForm.resources
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.FindBoxForm.resources
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.InventoryForm.resources
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.MainForm.resources
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Properties.Resources.resources
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Resources.Resources.resources
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.SettingsForm.resources
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0309 - fin\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe.config
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.AddBoxForm.resources
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.FindBoxForm.resources
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.InventoryForm.resources
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.MainForm.resources
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Properties.Resources.resources
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Resources.Resources.resources
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.SettingsForm.resources
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0309 - 2\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe.config
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.AddBoxForm.resources
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.FindBoxForm.resources
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.InventoryForm.resources
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.MainForm.resources
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Properties.Resources.resources
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Resources.Resources.resources
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.SettingsForm.resources
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0309 - E\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe.config
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.AddBoxForm.resources
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.FindBoxForm.resources
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.InventoryForm.resources
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.MainForm.resources
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Properties.Resources.resources
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Resources.Resources.resources
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.SettingsForm.resources
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0409\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe.config
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.AddBoxForm.resources
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.FindBoxForm.resources
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.InventoryForm.resources
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.MainForm.resources
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Properties.Resources.resources
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Resources.Resources.resources
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.SettingsForm.resources
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0409Working Update(2)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe.config
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.AddBoxForm.resources
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.FindBoxForm.resources
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.InventoryForm.resources
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.MainForm.resources
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Properties.Resources.resources
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Resources.Resources.resources
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.SettingsForm.resources
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0409Working Update(With0QuantRem)\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe.config
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.pdb
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.dll
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.pdb
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.AddBoxForm.resources
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.FindBoxForm.resources
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.InventoryForm.resources
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.MainForm.resources
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Properties.Resources.resources
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Resources.Resources.resources
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.SettingsForm.resources
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CopyComplete
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.exe
+C:\Users\User\Desktop\DS\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.pdb
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe.config
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.exe
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\InterfaceforBoxes.pdb
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.dll
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.dll
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\BoxesLogic.pdb
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Newtonsoft.Json.xml
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.AssemblyReference.cache
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.AddBoxForm.resources
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.FindBoxForm.resources
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.InventoryForm.resources
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.MainForm.resources
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Properties.Resources.resources
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.Resources.Resources.resources
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.SettingsForm.resources
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.GenerateResource.cache
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CoreCompileInputs.cache
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.csproj.CopyComplete
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.exe
+D:\SELA\code\Le_AGASHA\0509Final\InterfaceforBoxes\InterfaceforBoxes\obj\Debug\InterfaceforBoxes.pdb
